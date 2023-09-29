@@ -1,0 +1,38 @@
+Body{
+    background-color: #0F0E0F !important;
+}
+div{
+    width: 1100px;
+    height: 720px;
+    background-color: #fff;
+    margin: auto;
+}
+aside{
+    width: 400px;
+    height: 516px;
+    background-color: #0D7964;
+    float: left;
+    margin-right: 12px;
+}
+section{
+    width: 688px;
+    height: 516px;
+    background-color: #0D7964;
+    float: left;
+}
+header{
+    width: 1100px;
+    height: 100px;
+    background-color: #0D7964;
+    margin-bottom: 12px; 
+}
+main{
+    width: 1100px;
+    height: 516px;
+    margin-bottom: 12px;
+}
+footer{
+    width: 1100px;
+    height: 80px;
+    background-color: #0D7964;
+}
